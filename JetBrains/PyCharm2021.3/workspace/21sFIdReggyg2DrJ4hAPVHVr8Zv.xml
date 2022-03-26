@@ -1,0 +1,135 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="latvianBot" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="3" lastUsed="1639496258062" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="latvianBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latvianBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4472000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18848026" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.38171488" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.19576445" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="1550" y="479" width="740" height="639" key="#Inspections" timestamp="1638722215880">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state x="1550" y="479" width="740" height="639" key="#Inspections/0.44.2560.1396@0.44.2560.1396" timestamp="1638722215880" />
+    <state width="1803" height="341" key="GridCell.Tab.0.bottom" timestamp="1638732078669">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1803" height="341" key="GridCell.Tab.0.bottom/0.44.2560.1396@0.44.2560.1396" timestamp="1638732078669" />
+    <state width="1803" height="341" key="GridCell.Tab.0.center" timestamp="1638732078669">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1803" height="341" key="GridCell.Tab.0.center/0.44.2560.1396@0.44.2560.1396" timestamp="1638732078669" />
+    <state width="1803" height="341" key="GridCell.Tab.0.left" timestamp="1638732078669">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1803" height="341" key="GridCell.Tab.0.left/0.44.2560.1396@0.44.2560.1396" timestamp="1638732078669" />
+    <state width="1803" height="341" key="GridCell.Tab.0.right" timestamp="1638732078669">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1803" height="341" key="GridCell.Tab.0.right/0.44.2560.1396@0.44.2560.1396" timestamp="1638732078669" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

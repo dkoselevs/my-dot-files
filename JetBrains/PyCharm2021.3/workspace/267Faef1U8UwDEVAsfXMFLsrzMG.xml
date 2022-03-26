@@ -1,0 +1,196 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="kivyApp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/divdabji.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neuralrandom.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="3" lastUsed="1646767926201" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="5" lastUsed="1646769269302" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/neuralrandom.kv" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/divdabji.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kivyApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kivyApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="kivyApp-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2842000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25040066" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.36018786" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32984102" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.322387" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="516" width="587" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646767333363">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="343" y="516" width="587" height="423" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1646767333363" />
+    <state width="1202" height="470" key="GridCell.Tab.0.bottom" timestamp="1646769655029">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1202" height="470" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1646769655029" />
+    <state width="1202" height="470" key="GridCell.Tab.0.center" timestamp="1646769655029">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1202" height="470" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1646769655029" />
+    <state width="1202" height="470" key="GridCell.Tab.0.left" timestamp="1646769655028">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1202" height="470" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1646769655028" />
+    <state width="1202" height="470" key="GridCell.Tab.0.right" timestamp="1646769655029">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1202" height="470" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1646769655029" />
+    <state x="769" y="480" width="1017" height="720" key="SettingsEditor" timestamp="1646768214507">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="769" y="480" width="1017" height="720" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1646768214507" />
+    <state x="372" y="449" width="528" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1646769443755">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="372" y="449" width="528" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1646769443755" />
+    <state x="1579" y="349" width="672" height="687" key="search.everywhere.popup" timestamp="1646768010002">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1579" y="349" width="672" height="687" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1646768010002" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.10/site-packages/kivy/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="586" column="8" selection-start-line="586" selection-start-column="8" selection-end-line="586" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralrandom.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divdabji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

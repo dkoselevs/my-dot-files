@@ -1,0 +1,175 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="olimpiade" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="17" lastUsed="1641240675215" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/tests.py" />
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="olimpiade" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olimpiade" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="olimpiade-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17205000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2480346" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3302786" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3999267" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.3302786" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3302786" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="14" weight="0.3302786" />
+      <window_info anchor="bottom" id="Python Console" order="15" visible="true" weight="0.3302786" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Python Console</value>
+      <value>Python Packages</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1702" y="500" width="432" height="486" key="FileChooserDialogImpl" timestamp="1641240803899">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state x="1702" y="500" width="432" height="486" key="FileChooserDialogImpl/0.44.2560.1396@0.44.2560.1396" timestamp="1641240803899" />
+    <state width="1226" height="517" key="GridCell.Tab.0.bottom" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.0.bottom/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state width="1226" height="517" key="GridCell.Tab.0.center" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.0.center/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state width="1226" height="517" key="GridCell.Tab.0.left" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.0.left/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state width="1226" height="517" key="GridCell.Tab.0.right" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.0.right/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state width="1226" height="517" key="GridCell.Tab.1.bottom" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.1.bottom/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state width="1226" height="517" key="GridCell.Tab.1.center" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.1.center/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state width="1226" height="517" key="GridCell.Tab.1.left" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.1.left/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state width="1226" height="517" key="GridCell.Tab.1.right" timestamp="1640103919660">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="1226" height="517" key="GridCell.Tab.1.right/0.44.2560.1396@0.44.2560.1396" timestamp="1640103919660" />
+    <state x="1413" y="377" width="1007" height="732" key="SettingsEditor" timestamp="1639910233297">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state x="1413" y="377" width="1007" height="732" key="SettingsEditor/0.44.2560.1396@0.44.2560.1396" timestamp="1639910233297" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

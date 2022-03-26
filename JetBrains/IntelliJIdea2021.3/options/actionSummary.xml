@@ -1,0 +1,97 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1638649775022" />
+    </e>
+    <e n="$Undo">
+      <i c="20" l="1638693058092" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="3" l="1638649731433" />
+    </e>
+    <e n="CopyElement">
+      <i c="1" l="1638650243869" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1638689762838" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="379" l="1638693406153" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="93" l="1638693163859" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="25" l="1638692704372" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1638689705772" />
+    </e>
+    <e n="EditorDown">
+      <i c="52" l="1638693423613" />
+    </e>
+    <e n="EditorEnter">
+      <i c="42" l="1638693428557" />
+    </e>
+    <e n="EditorLeft">
+      <i c="377" l="1638693160992" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1638689711188" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1638689712176" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="6" l="1638689704912" />
+    </e>
+    <e n="EditorRight">
+      <i c="345" l="1638693425848" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="3" l="1638689709022" />
+    </e>
+    <e n="EditorTab">
+      <i c="15" l="1638692307974" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="4" l="1638690522493" />
+    </e>
+    <e n="EditorUp">
+      <i c="11" l="1638690083774" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1638390207692" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="10" l="1638649732080" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="2" l="1638693411016" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1638693397814" />
+    </e>
+    <e n="Run">
+      <i c="31" l="1638693172799" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1638694065936" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1638650481935" />
+    </e>
+    <e n="Terminal.OpenInTerminal">
+      <i c="1" l="1638639114826" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1638638575402" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="23" l="1638693207163" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="7" l="1638693166117" />
+    </e>
+  </component>
+</application>

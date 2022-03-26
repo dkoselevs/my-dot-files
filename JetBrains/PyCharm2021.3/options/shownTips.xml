@@ -1,0 +1,15 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="ChangeSorting.html" value="1646766696260" />
+        <entry key="ClosingTag.html" value="1638720280120" />
+        <entry key="JumpToLastEdit.html" value="1641240680499" />
+        <entry key="MethodSeparators.html" value="1639496263430" />
+        <entry key="PytestFixtures.html" value="1639834146431" />
+        <entry key="ShowUsages.html" value="1640100790653" />
+        <entry key="SplitEditor.html" value="1639935339140" />
+      </map>
+    </option>
+  </component>
+</application>

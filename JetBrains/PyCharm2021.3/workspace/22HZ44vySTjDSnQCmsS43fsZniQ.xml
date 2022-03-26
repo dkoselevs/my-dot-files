@@ -1,0 +1,268 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="preparing" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zivis">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zivis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Valsts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="8" lastUsed="1646766764853" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="4" lastUsed="1639834141193" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="24" lastUsed="1646766764982" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/input.txt" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/test.py" />
+      <option value="$PROJECT_DIR$/Zivis.py" />
+      <option value="$PROJECT_DIR$/Valsts.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="preparing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="preparing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="preparing-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16738000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2207532" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32984102" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.460044" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3999267" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32984102" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.35657513" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33634394" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="14" weight="0.33007246" />
+      <window_info anchor="bottom" id="Python Console" order="15" weight="0.33200866" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="documentation.v2" order="3" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3636006" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.46517596" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3999267" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.13159823" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3302786" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" weight="0.3302786" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="documentation.v2" order="3" side_tool="true" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>TODO</value>
+      <value>Problems View</value>
+      <value>Python Console</value>
+      <value>Run</value>
+      <value>Python Packages</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="281" y="516" width="716" height="453" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639835676326">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state x="281" y="516" width="716" height="453" key="#com.intellij.fileTypes.FileTypeChooser/0.44.2560.1396@0.44.2560.1396" timestamp="1639835676326" />
+    <state width="1508" height="599" key="GridCell.Tab.0.bottom" timestamp="1641245874535">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state width="1508" height="599" key="GridCell.Tab.0.bottom/0.36.2560.1404@0.36.2560.1404" timestamp="1641245874535" />
+    <state width="1508" height="599" key="GridCell.Tab.0.bottom/0.44.2560.1396@0.44.2560.1396" timestamp="1641245048793" />
+    <state width="1508" height="599" key="GridCell.Tab.0.center" timestamp="1641245874535">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state width="1508" height="599" key="GridCell.Tab.0.center/0.36.2560.1404@0.36.2560.1404" timestamp="1641245874535" />
+    <state width="1508" height="599" key="GridCell.Tab.0.center/0.44.2560.1396@0.44.2560.1396" timestamp="1641245048793" />
+    <state width="1508" height="599" key="GridCell.Tab.0.left" timestamp="1641245874535">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state width="1508" height="599" key="GridCell.Tab.0.left/0.36.2560.1404@0.36.2560.1404" timestamp="1641245874535" />
+    <state width="1508" height="599" key="GridCell.Tab.0.left/0.44.2560.1396@0.44.2560.1396" timestamp="1641245048793" />
+    <state width="1508" height="599" key="GridCell.Tab.0.right" timestamp="1641245874535">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state width="1508" height="599" key="GridCell.Tab.0.right/0.36.2560.1404@0.36.2560.1404" timestamp="1641245874535" />
+    <state width="1508" height="599" key="GridCell.Tab.0.right/0.44.2560.1396@0.44.2560.1396" timestamp="1641245048793" />
+    <state width="2093" height="517" key="GridCell.Tab.1.bottom" timestamp="1639848253618">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="2093" height="517" key="GridCell.Tab.1.bottom/0.44.2560.1396@0.44.2560.1396" timestamp="1639848253618" />
+    <state width="2093" height="517" key="GridCell.Tab.1.center" timestamp="1639848253618">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="2093" height="517" key="GridCell.Tab.1.center/0.44.2560.1396@0.44.2560.1396" timestamp="1639848253618" />
+    <state width="2093" height="517" key="GridCell.Tab.1.left" timestamp="1639848253618">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="2093" height="517" key="GridCell.Tab.1.left/0.44.2560.1396@0.44.2560.1396" timestamp="1639848253618" />
+    <state width="2093" height="517" key="GridCell.Tab.1.right" timestamp="1639848253618">
+      <screen x="0" y="44" width="2560" height="1396" />
+    </state>
+    <state width="2093" height="517" key="GridCell.Tab.1.right/0.44.2560.1396@0.44.2560.1396" timestamp="1639848253618" />
+    <state x="1416" y="377" width="999" height="704" key="SettingsEditor" timestamp="1646766738688">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1416" y="377" width="999" height="704" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1646766738688" />
+    <state x="0" y="36" width="2560" height="1404" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1639836499640">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state x="0" y="36" width="2560" height="1404" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.36.2560.1404@0.36.2560.1404" timestamp="1639836499640" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/input.txt" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/Zivis">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zivis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Valsts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
