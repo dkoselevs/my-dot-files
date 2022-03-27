@@ -31,6 +31,11 @@ else
 	cp -rf $DIR/fonts/* "$FDIR"
 fi
 
+#Adding wallpapers
+mkdir ~/Wallpapers
+cp Walpapers/1.png ~/Wallpapers
+nitrogen ~/Wallpapers/1.png
+
 #Copying config files
 cp -rf .config ~
 cp .xbindkeysrc ~
