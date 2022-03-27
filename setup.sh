@@ -1,20 +1,18 @@
 #!/bin/bash
 #
-copy_stuff(){
-    cp -rf .config ~
-    cp .xbindkeysrc ~
-    cp .zshrc ~
-}
+cp -rf .config ~
+cp .xbindkeysrc ~
+cp .zshrc ~
 
-download_install_ly(){
-    mkdir ly_install
-    cd ly_install
-    git clone --recurse-submodules https://github.com/nullgemm/ly.git
-    cd ly
-    make
-    sudo make install
-    sudo systemctl enable ly.service
-}
+
+mkdir ly_install
+cd ly_install
+git clone --recurse-submodules https://github.com/nullgemm/ly.git
+cd ly
+make
+sudo make install
+sudo systemctl enable ly.service
+
 
 clear
 cat <<- EOF
@@ -33,5 +31,3 @@ echo -e "[!] Invalid Option, Exiting...  Your option - $REPLY"
 exit 1
 fi
 
-copy_stuff
-download_install_ly
