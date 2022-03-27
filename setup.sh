@@ -11,8 +11,10 @@ EOF
 read -p "[?] Select Option : "
 if [ $REPLY = "1" ]; then
 paru -S qtile xbindkeys rofi polybar nitrogen pcmanfm neovim
+cp .config ~/.config
 elif [ $REPLY = "2" ]; then
 paru -S qtile xbindkeys rofi polybar nitrogen pcmanfm neovim onlyoffice-bin pycharm-professional
+cp .config ~/.config
 else
 echo -e "[!] Invalid Option, Exiting...  Your option - $REPLY"
 exit 1
