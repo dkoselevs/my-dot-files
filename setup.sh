@@ -20,7 +20,6 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-chsh -s /bin/zsh
 
 #installing fonts
 echo -e "\n[*] Installing fonts..."
@@ -32,9 +31,11 @@ else
 fi
 
 #Adding wallpapers
+cd ~/my-dot-files
 mkdir ~/Wallpapers
 cp Walpapers/1.png ~/Wallpapers
 nitrogen ~/Wallpapers/1.png
+
 
 #Copying config files
 cp -rf .config ~
