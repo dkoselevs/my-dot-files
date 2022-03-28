@@ -132,8 +132,6 @@ extension_defaults = widget_defaults.copy()
 
 screens = [
     Screen(
-        wallpaper ='~/Wallpapers/main.jpg',
-        wallpaper_mode='stretch',
         # top=bar.Bar(
             # [widget.Sep(
                        # linewidth = 0,
@@ -279,9 +277,8 @@ floating_layout = layout.Floating(float_rules=[
 
 @hook.subscribe.startup
 def autostart():
-    home = os.path.expanduser('~/.config/polybar/forest/launch.sh')
+    home = os.path.expanduser('~/.config/qtile/autostart.sh')
     subprocess.run([home])
-    lazy.spawncmd("~/.config/rofi/launchers/text/launcher.sh", shell=True)
 
 
 auto_fullscreen = True

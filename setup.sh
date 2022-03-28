@@ -14,7 +14,7 @@ sudo make install
 sudo systemctl enable ly.service
 
 #installing packages
-paru -S qtile xbindkeys rofi nitrogen pcmanfm neovim xorg alacritty firefox ttf-spacemono python-pip zsh starship
+paru -S qtile xbindkeys polybar rofi nitrogen pcmanfm neovim xorg alacritty firefox ttf-spacemono python-pip zsh starship
 pip install neovim 
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
@@ -33,11 +33,11 @@ fi
 #Adding wallpapers
 cd ~/my-dot-files
 mkdir ~/Wallpapers
-cp Walpapers/1.png ~/Wallpapers
-nitrogen ~/Wallpapers/1.png
+cp Wallpapers/1.png ~/Wallpapers
 
 
 #Copying config files
+cd ~/my-dot-files
 cp -rf .config ~
 cp .xbindkeysrc ~
 cp .zshrc ~
