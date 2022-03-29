@@ -41,3 +41,7 @@ cp -rf .config ~
 cp .xbindkeysrc ~
 cp .zshrc ~
 cp pipes.sh ~
+
+echo "Cleaning up"
+rm -rf ly_install
+chsh -s /bin/zsh
