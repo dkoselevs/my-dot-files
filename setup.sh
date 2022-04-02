@@ -14,7 +14,7 @@ sudo make install
 sudo systemctl enable ly.service
 
 echo "installing packages"
-paru -S qtile xbindkeys polybar rofi nitrogen pcmanfm neovim xorg alacritty firefox ttf-spacemono python-pip zsh starship
+paru -S qtile xbindkeys polybar rofi nitrogen pcmanfm neovim xorg alacritty firefox ttf-spacemono python-pip zsh picom-git
 pip install neovim 
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
