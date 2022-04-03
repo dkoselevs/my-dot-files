@@ -15,11 +15,9 @@ sudo systemctl enable ly.service
 
 echo "installing packages"
 paru -S qtile xbindkeys polybar rofi nitrogen pcmanfm neovim xorg alacritty firefox ttf-spacemono python-pip zsh picom-git
-pip install neovim 
+pip install neovim
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 echo -e "\n[*] Installing fonts..."
 if [[ -d "$FDIR" ]]; then
@@ -44,4 +42,8 @@ cp pipes.sh ~
 
 echo "Cleaning up"
 rm -rf ly_install
+
+echo "Installing oh-my-zsh"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 chsh -s /bin/zsh
