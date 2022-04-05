@@ -37,7 +37,6 @@ echo "Copyig config files"
 cd ~/my-dot-files
 cp -rf .config ~
 cp .xbindkeysrc ~
-cp .zshrc ~
 cp pipes.sh ~
 
 echo "Cleaning up"
@@ -46,4 +45,3 @@ rm -rf ly_install
 echo "Installing oh-my-zsh"
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-chsh -s /bin/zsh
