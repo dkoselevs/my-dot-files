@@ -5,5 +5,7 @@
 4. chmod +x setup.sh
 5. ./setup.sh
 6. nvim; :PlugInstall
-
+7. chsh -s /bin/zsh
+8. reboot 
+9. Ready to go!
 
