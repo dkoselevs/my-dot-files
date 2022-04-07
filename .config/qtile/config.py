@@ -90,6 +90,8 @@ keys = [
 
     Key([mod, "control"], "r", lazy.reload_config(), desc="Reload the config"),
     Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
+    Key([mod], "p", lazy.spawn("/home/daniil/.config/rofi/launchers/text/launcher.sh")),
+    Key([mod, "control"], "d", lazy.spawn("nmcli dev disconnect wlp5s0"))
 ]
 groups = [Group(i) for i in "12345"]
 
@@ -109,7 +111,7 @@ for i in groups:
     ])
 
 layouts = [
-    layout.Columns(border_focus='#fbf1c7', border_normal='#a89984', border_width=4, margin=12),
+    layout.Columns(border_focus='#fbf1c7', border_normal='#a89984', border_width=4, margin=8),
     layout.Max(margin=5),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=2),
