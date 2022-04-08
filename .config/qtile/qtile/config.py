@@ -8,16 +8,6 @@ from libqtile.lazy import lazy
 mod = "mod4"
 terminal = "alacritty"
 
-# colors = [["#282c34", "#282c34"],
-          # ["#1c1f24", "#1c1f24"],
-          # ["#dfdfdf", "#dfdfdf"],
-          # ["#ff6c6b", "#ff6c6b"],
-          # ["#98be65", "#98be65"],
-          # ["#da8548", "#da8548"],
-          # ["#51afef", "#51afef"],
-          # ["#c678dd", "#c678dd"],
-          # ["#46d9ff", "#46d9ff"],
-          # ["#a9a1e1", "#a9a1e1"]]
 
 colors = ["#282828",
           "#1d2021",
@@ -132,122 +122,6 @@ extension_defaults = widget_defaults.copy()
 
 screens = [
     Screen(
-        # top=bar.Bar(
-            # [widget.Sep(
-                       # linewidth = 0,
-                       # padding = 6,
-                       # foreground = colors[2],
-                       # background = colors[0]
-                       # ),
-              # widget.Sep(
-                       # linewidth = 0,
-                       # padding = 6,
-                       # foreground = colors[2],
-                       # background = colors[0]
-                       # ),
-              # widget.GroupBox(
-                       # font = "Ubuntu",
-                       # fontsize = 16,
-                       # margin_y = 5,
-                       # margin_x = 0,
-                       # padding_y = 5,
-                       # padding_x = 3,
-                       # borderwidth = 3,
-                       # active = colors[2],
-                       # active = "#fbf1c7",
-                       # inactive = "#fbf1c7",
-                       # rounded = False,
-                       # highlight_color = colors[1],
-                       # highlight_method = "line",
-                       # this_current_screen_border = colors[6],
-                       # this_screen_border = colors [4],
-                       # other_current_screen_border = colors[6],
-                       # other_screen_border = colors[4],
-                       # foreground = "#fbf1c7",
-                       # background = colors[0]
-                       # ),
-             # widget.TextBox(
-                       # text = '| ',
-                       # font = "Ubuntu Mono",
-                       # background = colors[0],
-                       # foreground = '474747',
-                       # padding = 2,
-                       # ),
-              # widget.WindowName(
-                       # foreground = "#fbf1c7",
-                       # background = colors[0],
-                       # padding = 0
-                       # ),
-              # widget.Systray(
-                       # background = colors[0],
-                       # padding = 5
-                       # ),
-              # widget.Sep(
-                       # linewidth = 0,
-                       # padding = 6,
-                       # foreground = colors[0],
-                       # background = colors[0]
-                       # ),
-              # widget.CurrentLayout(
-                       # background=colors[0],
-                       # foreground="#fbf1c7"
-                      # ),
-              # widget.TextBox(
-                       # text = '| ',
-                       # font = "Ubuntu Mono",
-                       # background = colors[0],
-                       # foreground = '474747',
-                       # padding = 2,
-                       # ),
-              # widget.ThermalSensor(
-                       # foreground = font_color,
-                       # background = colors[0],
-                       # threshold = 90,
-                       # fmt = 'Temp: {}',
-                       # padding = 5
-                       # ),
-              # widget.TextBox(
-                       # text = '| ',
-                       # font = "Ubuntu Mono",
-                       # background = colors[0],
-                       # foreground = '474747',
-                       # padding = 2,
-                       # ),
-              # widget.PulseVolume(
-                       # foreground = font_color,
-                       # background = colors[0],
-                       # fmt = 'Vol: {}',
-                       # padding = 5
-                       # ),
-              # widget.TextBox(
-                       # text = '| ',
-                       # font = "Ubuntu Mono",
-                       # background = colors[0],
-                       # foreground = '474747',
-                       # padding = 2,
-                       # ),
-              # widget.KeyboardLayout(
-                       # foreground = font_color,
-                       # background = colors[0],
-                       # fmt = 'Keyboard: {}',
-                       # padding = 5
-                       # ),
-              # widget.TextBox(
-                       # text = '| ',
-                       # font = "Ubuntu Mono",
-                       # background = colors[0],
-                       # foreground = '474747',
-                       # padding = 2,
-                       # ),
-              # widget.Clock(
-                       # foreground = font_color,
-                       # background = colors[0],
-                       # format = "%A, %B %d - %H:%M "
-                       # ),
-            # ],
-            # 24
-            # border_width=[2, 0, 2, 0],  # Draw top and bottom borders
-            # border_color=["ff00ff", "000000", "ff00ff", "000000"]  # Borders are magenta
     ),
 ]
 mouse = [
@@ -283,7 +157,6 @@ def autostart():
 
 
 auto_fullscreen = True
-# focus_on_window_activation = "smart"
 reconfigure_screens = True
 
 # If things like steam games want to auto-minimize themselves when losing
